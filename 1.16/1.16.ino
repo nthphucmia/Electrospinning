@@ -20,8 +20,7 @@ URTouch  myTouch( 6, 5, 4, 3, 2);
 
 //==== Defining Variables
 extern uint8_t SmallFont[];
-extern uint8_t BigFont[];
-extern uint8_t SevenSegNumFont[];
+
 char currentPage, selectedUnit;
 int x, y,hienthi,hienthi1,hienthi2,hienthi3,l=1,k=2800;
 int dem,dem1,dem3,dem4,dem5,dem6,dem7;
