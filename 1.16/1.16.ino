@@ -15,8 +15,7 @@
 
 
 //==== Creating Objects
-UTFT myGLCD(ILI9341_16, 38, 39, 40, 41); //Parameters should be adjusted to your Display/Schield model
-URTouch  myTouch( 6, 5, 4, 3, 2);
+
 
 //==== Defining Variables
 extern uint8_t SmallFont[];
